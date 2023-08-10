@@ -1,0 +1,14 @@
+{
+    "name": "Tell Me A Joke",
+    "version": "0.0.1",
+    "manifest_version":3,
+    "description": "An extension that generates random jokes",
+    "author": "Utkarsh",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Tell Me A Joke"
+    },
+    "icons": {
+        "128": "logo.png"
+    }
+}
